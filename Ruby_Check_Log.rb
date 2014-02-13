@@ -1,8 +1,8 @@
 #! /usr/bin/env ruby
 
 ##############################
-#			                       #
-# check_log.rb	             #
+#			           #
+# check_log.rb	           #
 #                            #
 # Check log file for Error   #
 # statement(s)               #
